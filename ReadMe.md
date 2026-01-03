@@ -2,18 +2,26 @@
 
 Mini page de présentation accessible via le QR code de mon CV.
 
-## Aperçu
+🔗 **[links.youcefkouaouci.dev](https://links.youcefkouaouci.dev)**
 
 ![Capture du site](public/screenshot.png)
 
-## Liens vers mes profils professionnels
+## Stack
 
-- GitHub — https://github.com/Youcefkouaouci
-- LinkedIn — https://www.linkedin.com/in/youcef-kouaouci/
-- Medium — https://medium.com/@youcefkouaouci7
-- roadmap.sh — https://roadmap.sh/u/youcefkouaouci
-- ResearchGate — https://www.researchgate.net/profile/Youcef-Dhia-Elhak-Kouaouci?ev=hdr_xprf
+- HTML5 sémantique
+- CSS natif (nesting, variables)
+- Vite
+
+## Profils
+
+| Réseau       | Lien                                                                                          |
+| ------------ | --------------------------------------------------------------------------------------------- |
+| GitHub       | [Youcefkouaouci](https://github.com/Youcefkouaouci)                                           |
+| LinkedIn     | [youcef-kouaouci](https://www.linkedin.com/in/youcef-kouaouci/)                               |
+| Medium       | [@youcefkouaouci7](https://medium.com/@youcefkouaouci7)                                       |
+| roadmap.sh   | [youcefkouaouci](https://roadmap.sh/u/youcefkouaouci)                                         |
+| ResearchGate | [Youcef-Dhia-Elhak-Kouaouci](https://www.researchgate.net/profile/Youcef-Dhia-Elhak-Kouaouci) |
 
 ---
 
-_Projet personnel — page ultra-simple pour centraliser mes réseaux pro._
+Projet personnel — page ultra-simple pour centraliser mes réseaux pro.
